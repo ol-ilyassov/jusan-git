@@ -1,4 +1,6 @@
-# stepik-id-printer (h1)
+# stepik-id-printer (h1) 
+
+![logo](./jusan-logo.png)
 
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ `stepik.org`.
 
